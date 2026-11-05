@@ -1,0 +1,3 @@
+/* Intrinsic dimensions reserve space without fixing responsive image height. Source selectors retain precedence. */
+:where(img[data-migration-intrinsic-size]){height:auto}
+/* Verified agent repairs are appended here. */

@@ -1,0 +1,42 @@
+{
+  "schema": "content-source-build/v1",
+  "canonical": "markdown-frontmatter",
+  "htmlSnapshotFallback": false,
+  "records": [
+    {
+      "route": "/about-us",
+      "file": "content/pages/about-us.md",
+      "template": "templates/content/default-page.html",
+      "components": 1,
+      "markdownCharacters": 2653
+    },
+    {
+      "route": "/",
+      "file": "content/pages/home.md",
+      "template": "templates/content/home.html",
+      "components": 5,
+      "markdownCharacters": 4443
+    },
+    {
+      "route": "/our-services",
+      "file": "content/pages/our-services.md",
+      "template": "templates/content/default-page.html",
+      "components": 0,
+      "markdownCharacters": 4061
+    },
+    {
+      "route": "/reviews",
+      "file": "content/pages/reviews.md",
+      "template": "templates/content/default-page.html",
+      "components": 0,
+      "markdownCharacters": 906
+    },
+    {
+      "route": "/why-choose-us",
+      "file": "content/pages/why-choose-us.md",
+      "template": "templates/content/default-page.html",
+      "components": 4,
+      "markdownCharacters": 4166
+    }
+  ]
+}

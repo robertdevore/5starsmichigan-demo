@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://5stars-demo.robertdevore.com/sitemap.xml
